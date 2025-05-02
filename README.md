@@ -19,6 +19,16 @@ Mushroom Challenge
  - In summary, I had to use various models to help me determine what the problem was for classifying mushrooms as either edible or poisonous. I used the hyperparameters that helped tune the model preferences and the cross-validation to help me. Random Forest and SVM performed well due to their robustness and ability to handle complex data as well. 
 
    - Training
-   - The training process was relatively simple for models like Naive Bayes and Logistic Regression, but more effort was needed to fine-tune the complex models, such as Random Forest and SVM. Issues like overfitting and class imbalance were managed through methods like cross-validation, early stopping, and tuning the model's hyperparameters.
+   - The training process was relatively simple for models like Naive Bayes and Logistic Regression, but more effort was needed to fine-tune the complex models, such as Random Forest and SVM. Issues like overfitting and class imbalance were managed through methods like cross-validation, early stopping, and tuning the model's hyperparameters. I don't think I had difficulties.
+  
+     - Performance Comparison
+     - The ROC curve illustrates the trade-off between sensitivity and specificity. A model with an AUC close to 1 is considered to perform well, as it shows the model's ability to effectively differentiate between the two classes (edible vs. poisonous). By comparing AUC values, you can easily identify the top-performing model. In this case, Random Forest has the highest AUC, signifying its superior ability to distinguish between edible and poisonous mushrooms.
+    
+     - Conclusion
+     - The Random Forest emerged as the most reliable model, which helps provide the best balance between accuracy and generalization.
+    
+     - Future
+     - I haven't thought about anything yet. The next steps could involve improving model performance through hyperparameter tuning, feature engineering, or the application of advanced machine learning techniques.
+     - 
 
   
