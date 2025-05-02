@@ -15,5 +15,10 @@ Mushroom Challenge
     - We had to check the missing values and address them. We then had to use categorical variables to address variables such as gill size, odor, and other variables. To enhance the model's efficiency, we had to remove ID columns, and then the dataset was split into training and validation. The features were scaled and which helps the accuracy of the algorithm. 
     - Data Visuaulization
     - The interpretation shows that the bar plot shows the distribution of the poisonous and edible in the dataset. The heatmap visualizes the correlation between numerical features in the dataset. But the strong correlations may indicate potential discharges in the features, and identifying them can help in selection, which helps improve the model’s efficiency.
- 
+ - Problem Formulation
+ - In summary, I had to use various models to help me determine what the problem was for classifying mushrooms as either edible or poisonous. I used the hyperparameters that helped tune the model preferences and the cross-validation to help me. Random Forest and SVM performed well due to their robustness and ability to handle complex data as well. 
+
+   - Training
+   - The training process was relatively simple for models like Naive Bayes and Logistic Regression, but more effort was needed to fine-tune the complex models, such as Random Forest and SVM. Issues like overfitting and class imbalance were managed through methods like cross-validation, early stopping, and tuning the model's hyperparameters.
+
   
