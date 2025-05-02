@@ -12,6 +12,8 @@ Mushroom Challenge
                Rows: 8124
                Columns: 23
     - Preprocessing/Clean up
+    - We had to check the missing values and address them. We then had to use categorical variables to address variables such as gill size, odor, and other variables. To enhance the model's efficiency, we had to remove ID columns, and then the dataset was split into training and validation. The features were scaled and which helps the accuracy of the algorithm. 
     - Data Visuaulization
+    - The interpretation shows that the bar plot shows the distribution of the poisonous and edible in the dataset. The heatmap visualizes the correlation between numerical features in the dataset. But the strong correlations may indicate potential discharges in the features, and identifying them can help in selection, which helps improve the model’s efficiency.
  
   
