@@ -29,6 +29,17 @@ Mushroom Challenge
     
      - Future
      - I haven't thought about anything yet. The next steps could involve improving model performance through hyperparameter tuning, feature engineering, or the application of advanced machine learning techniques.
-     - 
+     - Results
+    
+
+     - Software Setup
+     - Pandas, numpy, Scikit-learn, Matplotlib, and Seaborn
+    
+
+      - Data
+    
+       - Citations
+       - Mushroom classification. (2016, December 1). Kaggle. https://www.kaggle.com/datasets/uciml/mushroom-classification/data
+    
 
   
